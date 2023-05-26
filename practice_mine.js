@@ -20,7 +20,7 @@ function fruit(){
         // break;
 
     default:
-        console.log(`Your age ${ageVideo} is not match` + "\r\n")
+        console.log(`Your age ${ageVideo} is not match` + "\r\n");
     }
 }
 
